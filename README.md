@@ -2,8 +2,7 @@
  
 #### :heart: I'm passionate about:
 
-- React
-- React Native
+- React / React Native
 - Relay
 - Hasura
 - Expo
