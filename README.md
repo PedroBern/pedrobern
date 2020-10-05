@@ -3,7 +3,7 @@
 #### :heart: I'm passionate about:
 
 - React / React Native
-- Relay
+- Relay, or any GraphQL
 - Hasura
 - Expo
 
