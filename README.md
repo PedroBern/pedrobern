@@ -6,6 +6,7 @@
 - React Native
 - Relay
 - Hasura
+- Expo
 
 <!--
 #### :ok_hand: My projects include:
