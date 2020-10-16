@@ -22,7 +22,7 @@
 - Python
 - R
 
-#### :rocket:  Popular open source projects I started:
+#### :rocket:  Some of my open source projects:
 
 - [react-tiger-transition](https://pedrobern.github.io/react-tiger-transition/)
 - [django-graphql-auth](https://django-graphql-auth.readthedocs.io/en/latest/)
