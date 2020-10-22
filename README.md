@@ -24,8 +24,12 @@
 
 #### :rocket:  Some of my open source projects:
 
-- [react-tiger-transition](https://pedrobern.github.io/react-tiger-transition/)
-- [django-graphql-auth](https://django-graphql-auth.readthedocs.io/en/latest/)
+- [react-tiger-transition](https://pedrobern.github.io/react-tiger-transition/) (npm) :fire:
+- [django-graphql-auth](https://django-graphql-auth.readthedocs.io/en/latest/) (pypi) :fire:
+- [react-native-art-museums-app](https://github.com/PedroBern/react-native-art-museums-app) (play store)
+- [react-hook-use-cancelable-thunk-reducer](https://github.com/PedroBern/react-hook-use-cancelable-thunk-reducer) (npm)
+- [concrete-compressive-strength-prediction](https://github.com/PedroBern/concrete-compressive-strength-prediction) (ml)
+- [brazil-monthly-deaths-by-city](https://github.com/PedroBern/brazil-monthly-deaths-by-city) (pypi)
 
 
 <!--
