@@ -34,7 +34,7 @@
 - [brazil-monthly-deaths-by-city](https://github.com/PedroBern/brazil-monthly-deaths-by-city) (pypi)
 
 
-#### My GH stats
+#### :octocat: My GH stats
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrobern&count_private=true&show_icons=true) 
 
