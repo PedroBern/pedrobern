@@ -24,14 +24,13 @@
 
 #### :rocket:  Some of my open source projects:
 
-- [react-native-collapsible-tab-view](https://github.com/PedroBern/react-native-collapsible-tab-view) (npm) :new:
-- [react-native-collapsible-segmented-view](https://github.com/PedroBern/react-native-collapsible-segmented-view) (npm) :new:
-- [react-tiger-transition](https://pedrobern.github.io/react-tiger-transition/) (npm) :fire:
-- [django-graphql-auth](https://django-graphql-auth.readthedocs.io/en/latest/) (pypi) :fire:
+- [react-native-collapsible-tab-view](https://github.com/PedroBern/react-native-collapsible-tab-view) (npm)
+- [react-native-collapsible-segmented-view](https://github.com/PedroBern/react-native-collapsible-segmented-view) (npm)
+- [react-tiger-transition](https://pedrobern.github.io/react-tiger-transition/) (npm)
+- [django-graphql-auth](https://django-graphql-auth.readthedocs.io/en/latest/) (pypi)
 - [react-native-art-museums-app](https://github.com/PedroBern/react-native-art-museums-app) (play store)
-- [react-native-scene-view](https://github.com/PedroBern/react-native-scene-view) (npm) :new: (WIP)
 - [react-hook-use-cancelable-thunk-reducer](https://github.com/PedroBern/react-hook-use-cancelable-thunk-reducer) (npm)
-- [concrete-compressive-strength-prediction](https://github.com/PedroBern/concrete-compressive-strength-prediction) (ml)
+- [concrete-compressive-strength-prediction](https://github.com/PedroBern/concrete-compressive-strength-prediction) (ml))
 - [brazil-monthly-deaths-by-city](https://github.com/PedroBern/brazil-monthly-deaths-by-city) (pypi)
 
 <!--
