@@ -1,28 +1,6 @@
-# Hi there, I'm Pedro 👋
+## Hi there, I'm Pedro 👋
  
-#### :heart: I'm passionate about:
-
-- React / React Native
-- Relay, or any GraphQL
-- Hasura
-- Expo
-
-<!--
-#### :ok_hand: My projects include:
-
-- Good documentation
-- CI/CD
--->
-
-#### :computer: Programming languages:
-
-- Typescript
-- Javascript
-- SQL
-- Python
-- R
-
-#### :rocket:  Some of my open source projects:
+### Some of my _old_ open source projects:
 
 - [react-native-collapsible-tab-view](https://github.com/PedroBern/react-native-collapsible-tab-view) (npm)
 - [react-native-collapsible-segmented-view](https://github.com/PedroBern/react-native-collapsible-segmented-view) (npm)
